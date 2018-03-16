@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">News</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="setting">设置</string>
+    <string name="night_mode">夜间</string>
+    <string name="favourite">收藏</string>
+    <string name="message">\u3000消息通知</string>
+    <string name="shop">\u3000头条商城</string>
+    <string name="special_supply">\u3000京东特供</string>
+    <string name="tip_off">\u3000我要爆料</string>
+    <string name="feedback">\u3000用户反馈</string>
+    <string name="system_setting">\u3000系统设置</string>
+</resources>
